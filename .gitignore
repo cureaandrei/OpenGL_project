@@ -16,3 +16,8 @@ obj/
 *.user
 *.suo
 *.log
+
+.vs/
+*.ipch
+ipch/
+
