@@ -1,0 +1,200 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl c5370_Material_0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd c5370_Material_0_baseColor.png
+map_d c5370_Material_0_baseColor.png
+map_Bump -bm 0.500000 c5370_Material_0_normal.png
+
+newmtl c5370_Material_1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd c5370_Material_0_baseColor.png
+map_d c5370_Material_0_baseColor.png
+map_Bump -bm 0.500000 c5370_Material_0_normal.png
+
+newmtl c5370_Material_10
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd c5370_Material_9_baseColor.png
+map_d c5370_Material_9_baseColor.png
+map_Bump -bm 0.400000 c5370_Material_9_normal.png
+
+newmtl c5370_Material_11
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd c5370_Material_9_baseColor.png
+map_d c5370_Material_9_baseColor.png
+map_Bump -bm 0.400000 c5370_Material_9_normal.png
+
+newmtl c5370_Material_12
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd c5370_Material_9_baseColor.png
+map_d c5370_Material_9_baseColor.png
+map_Bump -bm 0.400000 c5370_Material_9_normal.png
+
+newmtl c5370_Material_13
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd c5370_Material_13_baseColor.png
+map_d c5370_Material_13_baseColor.png
+map_Bump -bm 0.400000 c5370_Material_13_normal.png
+
+newmtl c5370_Material_14
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd c5370_Material_14_baseColor.png
+map_d c5370_Material_14_baseColor.png
+map_Bump -bm 0.400000 c5370_Material_14_normal.png
+
+newmtl c5370_Material_14_Variant_1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd c5370_Material_14_baseColor.png
+map_d c5370_Material_14_baseColor.png
+map_Bump -bm 0.400000 c5370_Material_14_normal.png
+
+newmtl c5370_Material_15
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd c5370_Material_14_baseColor.png
+map_d c5370_Material_14_baseColor.png
+map_Bump -bm 0.400000 c5370_Material_14_normal.png
+
+newmtl c5370_Material_2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd c5370_Material_2_baseColor.png
+map_d c5370_Material_2_baseColor.png
+map_Bump -bm 0.400000 c5370_Material_2_normal.png
+
+newmtl c5370_Material_3
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd c5370_Material_3_baseColor.png
+map_d c5370_Material_3_baseColor.png
+map_Bump -bm 0.400000 c5370_Material_3_normal.png
+
+newmtl c5370_Material_4
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd c5370_Material_2_baseColor.png
+map_d c5370_Material_2_baseColor.png
+map_Bump -bm 0.400000 c5370_Material_2_normal.png
+
+newmtl c5370_Material_5
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd c5370_Material_3_baseColor.png
+map_d c5370_Material_3_baseColor.png
+map_Bump -bm 0.400000 c5370_Material_3_normal.png
+
+newmtl c5370_Material_5_Variant_1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd c5370_Material_3_baseColor.png
+map_d c5370_Material_3_baseColor.png
+map_Bump -bm 0.400000 c5370_Material_3_normal.png
+
+newmtl c5370_Material_6
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd c5370_Material_2_baseColor.png
+map_d c5370_Material_2_baseColor.png
+map_Bump -bm 0.400000 c5370_Material_2_normal.png
+
+newmtl c5370_Material_7
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd c5370_Material_7_baseColor.png
+map_Bump -bm 0.400000 c5370_Material_7_normal.png
+
+newmtl c5370_Material_8
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd c5370_Material_8_baseColor.png
+map_d c5370_Material_8_baseColor.png
+map_Bump -bm 0.400000 c5370_Material_8_normal.png
+
+newmtl c5370_Material_9
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd c5370_Material_9_baseColor.png
+map_d c5370_Material_9_baseColor.png
+map_Bump -bm 0.400000 c5370_Material_9_normal.png

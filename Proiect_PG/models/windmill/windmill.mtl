@@ -1,0 +1,35 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl GelaenderWindrad
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd GelaenderWindrad_baseColor.jpeg
+map_Bump -bm 1.000000 GelaenderWindrad_normal.jpeg
+
+newmtl Muehle
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Muehle_baseColor.jpeg
+map_Bump -bm 1.000000 Muehle_normal.jpeg
+
+newmtl sockel
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd sockel_baseColor.jpeg
+map_Bump -bm 1.000000 sockel_normal.jpeg

@@ -1,0 +1,57 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl .001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd .001_baseColor.png
+map_Bump -bm 1.000000 .001_normal.png
+
+newmtl .002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd .002_baseColor.png
+map_Bump -bm 1.000000 .002_normal.png
+
+newmtl .003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd .003_baseColor.png
+map_Bump -bm 1.000000 .003_normal.png
+
+newmtl .004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd .004_baseColor.png
+map_Bump -bm 1.000000 .004_normal.png
+
+newmtl material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd material_baseColor.png
+map_Bump -bm 1.000000 material_normal.png

@@ -1,0 +1,88 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Bricks
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Bricks_baseColor.png
+map_Bump -bm 1.000000 Bricks_normal.png
+
+newmtl base
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd base_baseColor.png
+map_Bump -bm 1.000000 base_normal.png
+
+newmtl big_object
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd big_object_baseColor.png
+map_Bump -bm 1.000000 big_object_normal.png
+
+newmtl emis
+Ns 602.174927
+Ka 1.000000 1.000000 1.000000
+Kd 0.084029 0.003082 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 1.942735 0.494487 0.044847
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl fire
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd fire_baseColor.png
+map_Ke fire_baseColor.png
+
+newmtl knight
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd knight_baseColor.png
+map_Ke knight_emissive.png
+map_Bump -bm 1.000000 knight_normal.png
+
+newmtl small_details
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.044953 0.044953 0.044953
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd small_details_baseColor.png
+map_Ke small_details_emissive.png
+map_Bump -bm 1.000000 small_details_normal.png
+
+newmtl vitrage
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+illum 2
+map_Kd vitrage_baseColor.png
+map_Ke vitrage_emissive.png
+map_d vitrage_baseColor.png
+map_Bump -bm 1.000000 vitrage_normal.png

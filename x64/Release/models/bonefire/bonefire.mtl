@@ -1,0 +1,79 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl asche
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd asche_diffuse.jpeg
+map_Ns asche_specularGlossiness.png
+map_Ke asche_emissive.jpeg
+map_Bump -bm 1.000000 asche_normal.jpeg
+
+newmtl boden
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd boden_diffuse.jpeg
+map_Ns boden_specularGlossiness.png
+map_Bump -bm 1.000000 boden_normal.jpeg
+
+newmtl griff
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd griff_diffuse.jpeg
+map_Ns griff_specularGlossiness.png
+map_Ke griff_emissive.jpeg
+map_Bump -bm 1.000000 griff_normal.jpeg
+
+newmtl klinge
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd klinge_diffuse.jpeg
+map_Ns klinge_specularGlossiness.png
+map_Ke klinge_emissive.jpeg
+map_Bump -bm 1.000000 klinge_normal.jpeg
+
+newmtl knochen
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd knochen_diffuse.jpeg
+map_Ns knochen_specularGlossiness.png
+map_Bump -bm 1.000000 knochen_normal.jpeg
+
+newmtl schaedel
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd schaedel_diffuse.jpeg
+map_Ns schaedel_specularGlossiness.png
+map_Bump -bm 1.000000 schaedel_normal.jpeg
+
+newmtl steine
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd steine_diffuse.jpeg
+map_Ns steine_specularGlossiness.png
+map_Bump -bm 1.000000 steine_normal.jpeg
