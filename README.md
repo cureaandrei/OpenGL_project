@@ -87,12 +87,12 @@ Learning Objectives
 
 This project was created to deepen understanding of:
 
-Real-time rendering pipelines
+-Real-time rendering pipelines
 
-GPU programming with shaders
+-GPU programming with shaders
 
-3D transformations and camera systems
+-3D transformations and camera systems
 
-Lighting and shading models
+-Lighting and shading models
 
-Graphics optimization techniques
+-Graphics optimization techniques
